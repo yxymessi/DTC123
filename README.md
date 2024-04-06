@@ -1,7 +1,7 @@
 # Diffusion Time-step Curriculum for One Image to 3D Generation (CVPR 2024)
 
 <div  align="center">    
-<img src="figure1.png" alt="results" width="400">
+<img src="figure1.png" alt="results" width="800">
 </div>
 
 
