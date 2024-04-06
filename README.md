@@ -1,5 +1,9 @@
 # Diffusion Time-step Curriculum for One Image to 3D Generation (CVPR 2024)
 
+<div  align="center">    
+<img src="figure1.pdf" alt="results" width="400">
+</div>
+
 
 Acknowledgement: This repo is based on the following amazing project: [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion). Thanks to my friend kiui for his excellent work!
 
