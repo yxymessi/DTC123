@@ -1,7 +1,7 @@
 # Diffusion Time-step Curriculum for One Image to 3D Generation (CVPR 2024)
 
 <div  align="center">    
-<img src="figure1.gif" alt="results" width="800">
+<img src="github_results.gif" alt="results" width="800">
 </div>
 
 This is an official PyTorch implementation of DTC123. See the paper [here](https://arxiv.org/abs/2404.04562). If you find our DTC123 helpful or heuristic to your projects, please cite this paper and also star this repository. Thanks!
